@@ -1,14 +1,15 @@
-# Hi there, I'm Amrendra 👋
+Hi there, I'm Amrendra 👋
+I'm a Software Engineer passionate about building efficient and scalable server-side applications.
+A backend developer currently focused on mastering the MERN stack and building robust web applications.
 
-I'm a Software Engineer  passionate about building efficient and scalable server-side applications. 
-Backend developer with a QA background, currently focused on mastering the MERN stack and building scalable web applications.
+💼 About Me
+🔭 Experienced in building backend services using Node.js, Express.js, MongoDB, MySQL, and PostgreSQL
 
+🌱 Expanding knowledge in microservices, system design, and cloud infrastructure (AWS)
 
+💬 Ask me about Node.js, Express.js, MongoDB, MySQL, PostgreSQL, REST APIs, and backend architecture
 
-## 💼 About Me
-- 🔭 Experienced in Quality Assurance and currently building backend skills with the MERN stack  
-- 🌱 Expanding knowledge in microservices, system design, and cloud infrastructure  
-- 💬 Ask me about QA processes, Node.js, Express.js, MongoDB, and REST APIs  
-- 👀 Open to backend roles and opportunities that leverage my QA background and development skills  
-- 📫 Reach me at: [amrraj80855@gmail.com](mailto:amrraj80855@gmail.com)
+👀 Open to backend engineering roles where I can contribute to building scalable systems
+
+📫 Reach me at: amrraj80855@gmail.com
 
