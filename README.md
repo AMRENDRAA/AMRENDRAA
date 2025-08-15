@@ -1,15 +1,32 @@
-Hi there, I'm Amrendra 👋
-I'm a Software Engineer passionate about building efficient and scalable server-side applications.
-A backend developer currently focused on mastering the MERN stack and building robust web applications.
 
-💼 About Me
-🔭 Experienced in building backend services using Node.js, Express.js, MongoDB, MySQL, and PostgreSQL
+**Hi, I’m Amrendra 👋**
+I’m a **Software Engineer** passionate about crafting **efficient, scalable, and maintainable** backend systems.
+Currently, I’m diving deep into the **MERN stack** while building robust web applications that solve real-world problems.
 
-🌱 Expanding knowledge in microservices, system design, and cloud infrastructure (AWS)
+---
 
-💬 Ask me about Node.js, Express.js, MongoDB, MySQL, PostgreSQL, REST APIs, and backend architecture
+### 💼 **About Me**
 
-👀 Open to backend engineering roles where I can contribute to building scalable systems
+* 🚀 3+ years of experience designing and developing backend services using **Node.js, Express.js, MongoDB, MySQL, and PostgreSQL**
+* 🛠 Skilled in building **RESTful APIs** and architecting **secure, high-performance** server-side applications
+* ☁️ Expanding expertise in **microservices, system design, and AWS cloud infrastructure**
+* 🔍 Passionate about **writing clean, modular code** and following best practices for scalability and maintainability
 
-📫 Reach me at: amrraj80855@gmail.com
+---
 
+### 💬 **What I Can Help With**
+
+* Backend Development (**Node.js, Express.js**)
+* Databases (**MongoDB, MySQL, PostgreSQL**)
+* REST API Design & Backend Architecture
+* Performance Optimization & Debugging
+
+---
+
+### 👀 **Looking For**
+
+Backend engineering opportunities where I can **design scalable systems**, contribute to **meaningful projects**, and **grow as an engineer**.
+
+---
+
+📫 **Let’s Connect:** [amrraj80855@gmail.com](mailto:amrraj80855@gmail.com)
