@@ -30,4 +30,5 @@ Performance Tuning & Debugging
 
 Opportunities where I can design scalable backend systems, contribute to impactful projects, and grow within a high-performance engineering team.
 
-📫 Let’s Connect: amrraj80855@gmail.com | LinkedIn | GitHub
+📫 Let’s Connect: amrraj80855@gmail.com | 🔗 LinkedIn
+💻 GitHub
