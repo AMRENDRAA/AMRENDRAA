@@ -1,32 +1,33 @@
+Hi, I’m Amrendra 👋
+A results-driven Backend Engineer with 3 years of experience in building and optimizing scalable, high-performance server-side applications.
+I specialize in Node.js, Express.js, MongoDB, MySQL, and PostgreSQL—and I’m currently mastering the MERN stack to deliver even more robust web applications.
 
-**Hi, I’m Amrendra 👋**
-I’m a **Software Engineer** passionate about crafting **efficient, scalable, and maintainable** backend systems.
-Currently, I’m diving deep into the **MERN stack** while building robust web applications that solve real-world problems.
+💼 About Me
 
----
+🚀 Proven track record in developing scalable RESTful APIs, designing system architecture, and implementing secure authentication flows
 
-### 💼 **About Me**
+🛠 Skilled in backend services using Node.js, Express.js, MongoDB, MySQL, PostgreSQL
 
-* 🚀 3+ years of experience designing and developing backend services using **Node.js, Express.js, MongoDB, MySQL, and PostgreSQL**
-* 🛠 Skilled in building **RESTful APIs** and architecting **secure, high-performance** server-side applications
-* ☁️ Expanding expertise in **microservices, system design, and AWS cloud infrastructure**
-* 🔍 Passionate about **writing clean, modular code** and following best practices for scalability and maintainability
+☁️ Expanding expertise in microservices, system design, and AWS cloud infrastructure
 
----
+🧩 Experienced in performance optimization, debugging, and API documentation (Swagger/Postman)
 
-### 💬 **What I Can Help With**
+🤝 Collaborative team player—worked with cross-functional teams to deliver features on time for web & mobile platforms
 
-* Backend Development (**Node.js, Express.js**)
-* Databases (**MongoDB, MySQL, PostgreSQL**)
-* REST API Design & Backend Architecture
-* Performance Optimization & Debugging
+💬 What I Can Help With
 
----
+Backend Development (Node.js, Express.js)
 
-### 👀 **Looking For**
+Database Design & Optimization (MongoDB, MySQL, PostgreSQL)
 
-Backend engineering opportunities where I can **design scalable systems**, contribute to **meaningful projects**, and **grow as an engineer**.
+REST API Architecture & Microservices
 
----
+Cloud Deployment & Scalability (AWS)
 
-📫 **Let’s Connect:** [amrraj80855@gmail.com](mailto:amrraj80855@gmail.com)
+Performance Tuning & Debugging
+
+👀 Looking For
+
+Opportunities where I can design scalable backend systems, contribute to impactful projects, and grow within a high-performance engineering team.
+
+📫 Let’s Connect: amrraj80855@gmail.com | LinkedIn | GitHub
