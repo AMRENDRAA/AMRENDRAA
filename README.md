@@ -1,5 +1,5 @@
 Hi, I’m Amrendra 👋
-A results-driven Backend Engineer with 3 years of experience in building and optimizing scalable, high-performance server-side applications.
+A results-driven Fullstack  Engineer with 3 years of experience in building and optimizing scalable, high-performance server-side applications.
 I specialize in Node.js, Express.js, MongoDB, MySQL, and PostgreSQL—and I’m currently mastering the MERN stack to deliver even more robust web applications.
 
 💼 About Me
