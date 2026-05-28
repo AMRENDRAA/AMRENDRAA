@@ -1,19 +1,9 @@
-Hi, I’m Amrendra 👋
-A backend-focused Full Stack Engineer with 3 years of experience designing, building, and optimizing scalable, high-performance server-side applications.
+Senior Backend Engineer with 3+ years of experience architecting and delivering scalable, high-performance server-side systems in production environments.
 
-I specialize in developing robust backend systems using Node.js and modern databases, with a strong emphasis on clean architecture, performance, and reliability. Currently, I’m deepening my expertise in the MERN stack and system design to build end-to-end scalable solutions.
+I specialize in Node.js and Express.js — designing RESTful APIs, microservices, and data-intensive backends backed by MongoDB, MySQL, and PostgreSQL. My work spans the full backend lifecycle: schema design, query optimization, JWT-based authentication, middleware architecture, and AWS cloud deployments.
 
-💼 About Me
-🚀 Designed and developed scalable RESTful APIs with a focus on performance, maintainability, and security
-🛠 Strong expertise in backend technologies: Node.js, Express.js, MongoDB, MySQL, PostgreSQL
-🧠 Hands-on experience with authentication mechanisms (JWT-based auth, middleware design)
-☁️ Actively working with microservices architecture and AWS-based deployments
-⚡ Skilled in performance optimization, production debugging, and database query tuning
-📄 Experienced in API documentation and testing using Swagger and Postman
-🤝 Effective collaborator with cross-functional teams delivering features for web and mobile platforms
-💬 Core Expertise
-Backend Development (Node.js, Express.js)
-Database Design & Query Optimization (MongoDB, MySQL, PostgreSQL)
-REST API Design & Microservices Architecture
-Cloud Deployment & Scalability (AWS)
-Performance Tuning, Debugging & System Reliability
+What sets my approach apart is an obsession with reliability and maintainability — writing systems that scale gracefully under load and hold up over time. I've driven performance improvements in production, led API documentation standards with Swagger, and collaborated closely with cross-functional teams building web and mobile platforms.
+
+Currently expanding into full-stack MERN development and system design, with a focus on end-to-end ownership of scalable product infrastructure.
+
+Core Stack: Node.js · Express.js · MongoDB · MySQL · PostgreSQL · AWS · Docker · JWT · Swagger · REST · Microservices
